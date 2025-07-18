@@ -89,11 +89,6 @@ Control a paddle to bounce the ball and break all bricks on the screen. This gam
 
 ---
 
-## 📸 Screenshots
-
-> _(Insert screenshots or ASCII previews here if available)_
-
----
 
 ## 🤯 Learning Outcomes
 
